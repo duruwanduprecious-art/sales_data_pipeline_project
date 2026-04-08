@@ -117,4 +117,5 @@ It showcases the ability to transform raw data into meaningful insights that sup
 - Sample dataset
 ---
 ## Contact 
-Feel free to connect with me on LinkedIn or reach out for collaboration and opportunities.
+Feel free to connect with me on LinkedIn http://www.linkindin.com/in/precious-duruwandu 
+or reach out for collaboration and opportunities.
