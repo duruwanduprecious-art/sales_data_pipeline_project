@@ -60,7 +60,7 @@ This project demonstrates the design and implementation of an end-to-end data pi
 
 ---
 ## 📊 Key Insights 
-### Over all Performance 
+### Overall Performance 
 - Total of **7,930 units sold**, generating **$29.18k revenue**
 - Average yield of **16.4%** and delivery time of **2.52days**, indicating stable operations.
 ---
@@ -74,7 +74,7 @@ This project demonstrates the design and implementation of an end-to-end data pi
 ---
 ### Promotion Impact 
 - **PR14 dominates performance**, contributing the majority of revenue and sales
-- Other promotions have minimal impact on
+- Other promotions have minimal impact
 
 👉 Insights: Heavy reliance on a single promotion creates **risk and opportunity for diversification**
 
@@ -99,7 +99,7 @@ This project demonstrates the design and implementation of an end-to-end data pi
  - PO103 (83.9% Yield)
  - PO316 (66.7% Yield)
 
-👉 Insights: A small number of products drive drive **disproportionate value**
+👉 Insights: A small number of products drive **disproportionate value**
 
 ---
 ## 🧠 Key Learnings 
