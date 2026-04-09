@@ -51,6 +51,13 @@ This project demonstrates the design and implementation of an end-to-end data pi
  - Delivery Performance Over Time
 ---
 ## 📸 Dashboard Preview 
+### Dashboard Overview 
+[Dashboard] [dashboard png]
+### Data Transformation (Power Query)
+[Power Query] [Power Query png]
+### Data Model
+[Model View] [Model view png]
+
 ---
 ## 📊 Key Insights 
 ### Over all Performance 
