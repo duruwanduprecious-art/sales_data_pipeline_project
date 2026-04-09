@@ -52,11 +52,11 @@ This project demonstrates the design and implementation of an end-to-end data pi
 ---
 ## 📸 Dashboard Preview 
 ### Dashboard Overview 
-[Dashboard] [dashboard png]
+[Dashboard] [dashboard Png.png]
 ### Data Transformation (Power Query)
-[Power Query] [Power Query png]
+[Power Query] [Power Query Png.png]
 ### Data Model
-[Model View] [Model view png]
+[Model View] [Model view Png.png]
 
 ---
 ## 📊 Key Insights 
